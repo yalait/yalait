@@ -6,7 +6,7 @@ Skills: JS / HTML / CSS/TERRAFORM/ANSIBLE/PYTHON/VAGRANT/
 - 🔭 I’m currently working on **IaC** 
 
 
-[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/ansible-svgrepo-com.svg' alt='github' height='40'>](https://github.com/yalait)  
+[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/icons8-github.svg' alt='github' height='40'>](https://github.com/yalait)  
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/terraform-icon-svgrepo-com.svg' alt='terraform' height='40'>](https://app.terraform.io/app/4technology/workspaces)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='ansible' height='40'>](https://www.ansible.com/)  
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/vagrant-icon-svgrepo-com.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)
