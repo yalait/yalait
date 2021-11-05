@@ -1,11 +1,9 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://www.clio.com/wp-content/uploads/2020/08/Clio_2020-Blog_Image-Programming_for_Lawyers-550x275.png)
 
 
 Skills: JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on **IaC** 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yalait)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/terraform.svg' alt='terraform' height='40'>](https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png)  
