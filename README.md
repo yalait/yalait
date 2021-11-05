@@ -4,12 +4,13 @@ Skills: JS / HTML / CSS/TERRAFORM/ANSIBLE/PYTHON/VAGRANT/
 
 - 🔭 I’m currently working on **IaC**
 
-[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/icons8-github%20(1).svg' alt='github' height='40'>](https://github.com/yalait)[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/terraform-icon-svgrepo-com.svg' alt='terraform' height='40'>](https://app.terraform.io/app/4technology/workspaces)[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/icons8-ansible.svg' alt='ansible' height='40'>](https://www.ansible.com/)[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/vagrant-icon-svgrepo-com.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)
+[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/github-svgrepo-com.svg' alt='github' height='40'>](https://github.com/yalait)[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/gitlab-svgrepo-com.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/terraform-icon-svgrepo-com.svg' alt='terraform' height='40'>](https://app.terraform.io/app/4technology/workspaces)[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/icons8-ansible.svg' alt='ansible' height='40'>](https://www.ansible.com/)[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/vagrant-icon-svgrepo-com.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/bash-icon-svgrepo-com.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/html-svgrepo-com.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/css-svgrepo-com.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/django-icon-svgrepo-com.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)
 
+[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/django-icon-svgrepo-com.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yalait)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalait)](https://github.com/anuraghazra/github-readme-stats)
