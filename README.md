@@ -1,4 +1,4 @@
-![](https://www.clio.com/wp-content/uploads/2020/08/Clio_2020-Blog_Image-Programming_for_Lawyers-550x275.png)
+![](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz)
 
 
 Skills: JS / HTML / CSS
