@@ -6,7 +6,7 @@ Skills: JS / HTML / CSS/TERRAFORM/ANSIBLE/PYTHON/VAGRANT/
 - 🔭 I’m currently working on **IaC** 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yalait)  [<img src='<img src="https://img.icons8.com/fluency/96/000000/terraform.png"/>' alt='terraform' height='40'>](https://app.terraform.io/app/4technology/workspaces)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='ansible' height='40'>](https://www.ansible.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vagrant.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yalait)  [<img src='<img src="https://www.svgrepo.com/show/354447/terraform-icon.svg"/>' alt='terraform' height='40'>](https://app.terraform.io/app/4technology/workspaces)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='ansible' height='40'>](https://www.ansible.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vagrant.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yalait)](https://github.com/ryo-ma/github-profile-trophy)
 
