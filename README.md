@@ -19,8 +19,6 @@ Skills: JS / HTML / CSS/TERRAFORM/ANSIBLE/PYTHON/VAGRANT/
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/helm-svgrepo-com.svg' alt='vagrant' height='40'>]
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/docker-svgrepo-com.svg' alt='vagrant' height='40'>](https://hub.docker.com/u/yagami1l)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/grafana-svgrepo-com.svg' alt='vagrant' height='40'>]
-[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/postgresql-svgrepo-com.svg' alt='vagrant' height='40'>]
-[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/mysql-logo-svgrepo-com.svg' alt='vagrant' height='40'>]
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/sql-svgrepo-com.svg' alt='vagrant' height='40'>]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yalait)](https://github.com/ryo-ma/github-profile-trophy)
