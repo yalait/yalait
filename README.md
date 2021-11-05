@@ -28,11 +28,11 @@ Skills: JS / HTML / CSS/TERRAFORM/ANSIBLE/PYTHON/VAGRANT/
 ## Quick Overview 📝
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amit17133129&show_icons=true&include_all_commits=true&theme=radical" alt="Amit's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yalait&show_icons=true&include_all_commits=true&theme=radical" alt="Amit's github stats" />
 </a>
 <a href="https://github.com/yalait/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yalait&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.yalait.vercel.app/api/top-langs/?username=yalait&layout=compact&theme=radical" />
 </a>
 
 ###
