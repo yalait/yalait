@@ -1,12 +1,12 @@
 ![](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz)
 
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS/TERRAFORM/ANSIBLE/PYTHON/VAGRANT/
 
 - 🔭 I’m currently working on **IaC** 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yalait)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/terraform.svg' alt='terraform' height='40'>](https://s3-ap-southeast-2.amazonaws.com/content-prod-529546285894/2020/03/tf.png)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yalait)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/terraform.svg' alt='terraform' height='40'>](/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='ansible' height='40'>](/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vagrant.svg' alt='vagrant' height='40'>](/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yalait)](https://github.com/ryo-ma/github-profile-trophy)
 
