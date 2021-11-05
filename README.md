@@ -6,7 +6,7 @@ Skills: JS / HTML / CSS/TERRAFORM/ANSIBLE/PYTHON/VAGRANT/
 
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/github-svgrepo-com.svg' alt='github' height='40'>](https://github.com/yalait)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/gitlab-svgrepo-com.svg' alt='vagrant' height='40'>](https://gitlab.com/yalait)
-[<img src='https://github.com/yalait/yalait.github.io/blob/origin/main/logos/bitbucket-svgrepo-com.svg' alt='vagrant' height='40'>](https://gitlab.com/yalait)
+[<img src='https://github.com/yalait/yalait.github.io/blob/origin/main/logos/bitbucket-svgrepo-com.svg' alt='vagrant' height='40'>](https://bitbucket.org/yalait01/)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/terraform-icon-svgrepo-com.svg' alt='terraform' height='40'>](https://app.terraform.io/app/4technology/workspaces)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/vagrant-icon-svgrepo-com.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/packer-svgrepo-com.svg' alt='vagrant' height='40'>](hhttps://www.packer.io/)
