@@ -23,8 +23,6 @@ Skills: JS / HTML / CSS/TERRAFORM/ANSIBLE/PYTHON/VAGRANT/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yalait)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalait)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Quick Overview 📝
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
