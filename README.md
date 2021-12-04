@@ -21,7 +21,7 @@ Skills:
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/docker-svgrepo-com.svg' alt='docker' height='40'>](https://hub.docker.com/u/yagami1l)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/grafana-svgrepo-com.svg' alt='grafana' height='40'>](https://github.com/yalait)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yalait&title=Stars,Followers&theme=monokai&row=1)](https://github.com/yalait/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yalait&theme=monokai&row=1)](https://github.com/yalait/github-profile-trophy)
 
 ## Quick Overview 📝
     
