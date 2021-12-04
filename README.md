@@ -35,7 +35,7 @@ Skills:
 
 ###
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yalait)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yalait)](https://github.com/yalait)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yalait)
 
