@@ -25,10 +25,10 @@ Skills:
 
 ## Quick Overview 📝
     
-<a href="https://github.com/yalait/github-readme-stats">
+<a href="https://github.com/yalait/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yalait&show_icons=true&include_all_commits=true&theme=shades-of-purple" alt="yalait's github stats" />
 </a>
-<a href="https://github.com/yalait/github-readme-stats">
+<a href="https://github.com/yalait">
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yalait&layout=compact&theme=shades-of-purple" />
 </a>
