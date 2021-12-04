@@ -30,7 +30,7 @@ Skills:
 </a>
 <a href="https://github.com/amit17133129/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yalait&layout=compact&theme=radical" />
+  <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yalait&layout=compact&theme=radical" />
 </a>
 
 ###
