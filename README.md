@@ -26,7 +26,7 @@ Skills:
 ## Quick Overview 📝
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yalait&show_icons=true&include_all_commits=true&theme=radical" alt="Amit's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yalait&show_icons=true&include_all_commits=true&theme=radical" alt="yalait's github stats" />
 </a>
 <a href="https://github.com/amit17133129/github-readme-stats">
  
