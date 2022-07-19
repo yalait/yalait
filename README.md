@@ -10,7 +10,7 @@ Skills:
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/terraform-icon-svgrepo-com.svg' alt='terraform' height='40'>](https://app.terraform.io/app/4technology/workspaces)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/vagrant-icon-svgrepo-com.svg' alt='vagrant' height='40'>](https://www.vagrantup.com/)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/packer-svgrepo-com.svg' alt='packer' height='40'>](hhttps://www.packer.io/)
-[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/ansible-ar21.svg' alt='ansible' height='40'>](https://www.ansible.com/)
+[<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/file-type-ansible.svg' alt='ansible' height='40'>](https://www.ansible.com/)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/bash-icon-svgrepo-com.svg' alt='bash' height='40'>](https://github.com/yalait)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/sql-svgrepo-com.svg' alt='sql' height='40'>](https://github.com/yalait)
 [<img src='https://github.com/yalait/yalait.github.io/blob/main/logos/html-svgrepo-com.svg' alt='html' height='40'>](https://github.com/yalait)
